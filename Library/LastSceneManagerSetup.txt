@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Phoenix/PhoenixScene.unity
+- path: Assets/Scenes/Max/MaxScene.unity
   isLoaded: 1
   isActive: 1
